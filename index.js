@@ -4,7 +4,7 @@ function happyHolidays(){
 }
 console.log(happyHolidays());
 
-function happyHolidaysTo(name){
+function happyHolidaysTo(Miya){
   return `Happy holidays, ${name}!`;
 }
 console.log(happyHolidaysTo(Miya));
