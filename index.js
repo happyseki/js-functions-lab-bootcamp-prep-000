@@ -2,12 +2,12 @@
 function happyHolidays(){
   return "Happy Holidays!";
 }
-console.log(happyHolidays());
+happyHolidays();
 
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
-console.log(happyHolidaysTo(Jack));
+happyHolidaysTo(Jack);
 
 function happyHolidaysTo(holiday,name){
   return `Happy ${holiday}, ${name}!`;
