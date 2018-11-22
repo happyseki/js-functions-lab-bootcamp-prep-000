@@ -12,7 +12,7 @@ happyHolidaysTo("Elaina");
 function happyHolidaysTo(holiday,name){
   return `Happy ${holiday}, ${name}!`;
 }
-happyHolidaysTo("Independence day", "you");
+happyHolidaysTo("Independence day", "Elaina");
 
 function holidayCountdown(holiday, days){
   return `It's ${days} days until ${holiday}!`;
