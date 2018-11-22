@@ -7,7 +7,7 @@ console.log(happyHolidays());
 function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
-console.log(happyHolidaysTo());
+console.log(happyHolidaysTo(Jack));
 
 function happyHolidaysTo(holiday,name){
   return `Happy ${holiday}, ${name}!`;
