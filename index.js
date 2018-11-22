@@ -1,6 +1,6 @@
 // write your code below!
 function happyHolidays(){
-  return "happyHolidays";
+  return "happy Holidays";
 }
 console.log(happyHolidays());
 
@@ -9,7 +9,7 @@ function happyHolidaysTo(Miya){
 }
 console.log(happyHolidaysTo(Miya));
 
-function happyHolidaysTo(holiday,name){
+function happyHolidaysTo(ho liday,name){
   return `Happy ${holiday}, ${name}!`;
 }
 console.log(happyHolidaysTo(Thanksgiving, Miya));
